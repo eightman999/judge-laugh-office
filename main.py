@@ -1,6 +1,6 @@
 import os
 
-LINE = "The meeting could have been an email, the email could have been a sentence, and the sentence was 'no'."
+LINE = "Our daily standup is nine people taking turns saying 'no updates' into a video call that costs more than lunch."
 
 
 def main():
